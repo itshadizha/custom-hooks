@@ -5,6 +5,7 @@ import PasswordInput from "./components/InputForm";
 function App() {
   return <>
   <Counter/>
+  <br />
   <PasswordInput/>
   </>;
 }
